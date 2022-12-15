@@ -1323,10 +1323,10 @@ h4.modal-title {
     width: 250px;
     height: 210px;
 	}
-	.w3-banner-top {
+	/* .w3-banner-top {
     background: url(../images/ban6666.jpg) no-repeat -15px 0px;
     background-size: cover;
-	}
+	} */
 	.w3-edu-info2 h3 {
     font-size: 1.8em;
     letter-spacing: 1px;
@@ -1420,10 +1420,10 @@ h4.modal-title {
 	.w3-banner-img h3 {
     font-size: 2.3em;
 	}
-	.w3-banner-top {
+	/* .w3-banner-top {
     background: url(../images/ban6666.jpg) no-repeat -637px 0px;
     background-size: cover;
-	}
+	} */
 	.w3-edu-grid-left {
     margin-left: 9em;
 	}
@@ -1510,10 +1510,10 @@ h4.modal-title {
 	.w3-banner-grids {
     padding: 7em 0 0 0;
 	}
-	.w3-banner-top {
+	/* .w3-banner-top {
     background: url(../images/ban6666.jpg) no-repeat -739px 0px;
     background-size: cover;
-	}
+	} */
 }
 @media(max-width:600px){
 	.w3-banner-img {
@@ -1529,10 +1529,10 @@ h4.modal-title {
 	ul.agileits-address-text li span {
     margin: 1em;
 	}
-	.w3-banner-top {
+	/* .w3-banner-top {
     background: url(../images/ban6666.jpg) no-repeat -500px 0px;
     background-size: cover;
-	}
+	} */
 	.w3-about-grid-left2 h4 {
     width: 29%;
 	}
@@ -1642,10 +1642,10 @@ h4.modal-title {
     margin: 0;
     padding: 13px 0px;
 	}
-	.w3-banner-top {
+	/* .w3-banner-top {
     background: url(../images/ban6666.jpg) no-repeat -500px 0px;
     background-size: cover;
-	}
+	} */
 	.title-w3ls h4, .w3ls-heading h3, .w3-gallery-head h3, .w3-about-head h3 {
     font-size: 3em;
     color: #00bcd4;
